@@ -6,7 +6,7 @@ Currently focused on becoming a **power-packed IT Engineer** by combining **Web 
 
 ---
 
- Tech Stack & Tools  
+## Tech Stack & Tools  
 
 <p align="center">
   <!-- Languages -->
@@ -33,20 +33,20 @@ Currently focused on becoming a **power-packed IT Engineer** by combining **Web 
 
 ---
 
- Current Focus
+## Current Focus
 - 🔹 Building **production-level backend systems** (Express.js, Next.js)  
 - 🔹 Exploring **AI + Web Development** integrations 
 - 🔹 Research in **AI, Web Security, and Educational Technology**  
 
 ---
 
- Featured Projects
+## Featured Projects
 - 📰 **KalamKunja** – Fullstack article/blog platform with AI features
 - 🤖 **Personal AI Assistant** – Represents my identity, experiences, and learning journey  
 
 ---
 
- GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utsab-adhikari&show_icons=true&theme=tokyonight" height="180"/>
@@ -59,14 +59,14 @@ Currently focused on becoming a **power-packed IT Engineer** by combining **Web 
 
 ---
 
- Beyond Code
+## Beyond Code
 - 📖 Love reading **research papers** (AI, Systems, EduTech)  
 - ✍️ Writing blogs on **tech + learning journey**  
 - 🎶 Music keeps me inspired while coding  
 
 ---
 
- Let’s Connect
+## Let’s Connect
 <p align="center">
   <a href="mailto:utsab1adhikari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/utsabadhikari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
