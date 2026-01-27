@@ -1,7 +1,7 @@
 # Utsab Adhikari | IT Engineering Student
 
 👋 Hi! I’m **Utsab Adhikari**, an IT Engineering student from Nepal.  
-I’m currently exploring **C++ and Linux**, with good knowledge in **C, C++, Linux, Java, Next.js, and MERN stack**.  
+I’m currently exploring **C and Linux**, with good knowledge in **C, C++, Linux, Java, Next.js, and MERN stack**.  
 
 ---
 
