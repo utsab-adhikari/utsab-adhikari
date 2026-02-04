@@ -22,7 +22,7 @@ I’m currently exploring **C and Linux**, with good knowledge in **C, C++, Linu
 ---
 
 ## 🚀 Current Focus
-- Exploring **C++ and Linux**  
+- Exploring **C and Linux**  
 - Building **web applications** with **Next.js**  
 - Improving **backend development and system-level programming**
 
